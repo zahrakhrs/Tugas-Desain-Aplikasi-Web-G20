@@ -30,7 +30,7 @@ Tentang Presidensi G20 Indonesia 2022
         <div class="row">
             <div class="col-md-8 py-5">
                 <h1>Presidensi G20 Indonesia 2022</h1>
-                <h3>apa itu G20</h3>
+                <h3>Apa itu G20?</h3>
                 <p>G20 adalah forum kerja sama multilateral yang terdiri dari 19 negara utama dan Uni Eropa (EU). G20  merepresentasikan lebih dari 60% populasi bumi, 75% perdagangan global, dan 80% PDB dunia. Anggota G20 terdiri dari Afrika Selatan, Amerika Serikat, Arab Saudi, Argentina, Australia, Brasil, India, Indonesia, Inggris, Italia, Jepang, Jerman, Kanada, Meksiko, Republik Korea, Rusia, Perancis, Tiongkok, Turki, dan Uni Eropa.</p>
                 <h3>Sejarah Pendirian G20</h3>
                 <p>Dibentuk pada 1999 atas inisiasi anggota G7, G20 merangkul negara maju dan berkembang untuk bersama-sama mengatasi krisis, utamanya yang melanda Asia, Rusia, dan Amerika Latin. Adapun tujuan G20 adalah mewujudkan pertumbuhan global yang kuat, berkelanjutan, seimbang, dan inklusif.
@@ -64,7 +64,7 @@ Pertemuan-pertemuan G20 di Indonesia juga menjadi sarana untuk memperkenalkan pa
         <div class="row">
             <div class="col-12 py-4">
             	@zahrakhrs, Zahra Kharisma Sangha (21313006), 2022.
-       
+       <div class=" text-center">
             </div>
         </div>
     </footer>
