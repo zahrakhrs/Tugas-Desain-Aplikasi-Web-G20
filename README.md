@@ -1,34 +1,5 @@
 # Tugas-Desain-Aplikasi-Web-G20
 Tentang Presidensi G20 Indonesia 2022
-Lewati ke konten
-Telusuri atau lompat ke…
-Tarik permintaan s
-Masalah
-Ruang kode
-Pasar
-Mengeksplorasi
- 
-@zahrakhrs 
-zahrakhrs
-/
-Tugas-Desain-Aplikasi-Web-G20
-Publik
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Tugas-Desain-Aplikasi-Web-G20/G20-2022.html
-@zahrakhrs
-zahrakhrs Add files via upload
-Latest commit d5ab137 15 minutes ago
- History
- 1 contributor
-77 lines (63 sloc)  6.07 KB
 
 <!DOCTYPE html>
 <html lang="en">
@@ -107,19 +78,3 @@ Pertemuan-pertemuan G20 di Indonesia juga menjadi sarana untuk memperkenalkan pa
 </body>
 
 </html>
-Catatan kaki
-© 2022 GitHub, Inc.
-navigasi footer
-Ketentuan
-Pribadi
-Keamanan
-Status
-Dokumen
-Hubungi GitHub
-Harga
-API
-Pelatihan
-Blog
-Tentang
-zahrakhrs/Tugas-Desain-Aplikasi-Web-G20: Tentang Presidensi G20 Indonesia 2022
-Generalzahrakhrs/Tugas-Desain-Aplikasi-Web-G20: Tentang Presidensi G20 Indonesia 2022Tugas-Desain-Aplikasi-Web-G20/G20-2022.html at main · zahrakhrs/Tugas-Desain-Aplikasi-Web-G20
