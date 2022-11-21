@@ -66,6 +66,5 @@ Pertemuan-pertemuan G20 di Indonesia juga menjadi sarana untuk memperkenalkan pa
             	@zahrakhrs, Zahra Kharisma Sangha (21313006), 2022.
        <div class=" text-center">
             </div>
-        </div>
-    </footer>
+        
 
