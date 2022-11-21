@@ -1,7 +1,6 @@
 # Tugas-Desain-Aplikasi-Web-G20
 Tentang Presidensi G20 Indonesia 2022
 
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -60,10 +59,6 @@ Menjadi kesempatan menunjukkan kepemimpinan Indonesia di kancah internasional, k
 Membuat Indonesia menjadi salah satu fokus perhatian dunia, khususnya bagi para pelaku ekonomi dan keuangan. Hal ini dapat dimanfaatkan untuk menunjukkan (showcasing) berbagai kemajuan yang telah dicapai Indonesia kepada dunia, dan menjadi titik awal pemulihan keyakinan pelaku ekonomi pascapandemi, baik dari dalam negeri maupun luar negeri.
 Pertemuan-pertemuan G20 di Indonesia juga menjadi sarana untuk memperkenalkan pariwisata dan produk unggulan Indonesia kepada dunia internasional, sehingga diharapkan dapat turut menggerakkan ekonomi Indonesia.</p>
 
-            </div>
-            <div class="col-md-4 py-5">
-                <img class="w-100" src=logo-G20-dalam-aplikasi-dengan-latar-belakang.png >
-            </div>
         </div>
     </main>
     <footer class="container bg-primary text-white">
